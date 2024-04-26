@@ -6,3 +6,4 @@ Nextjs
 Tailwind CSS 
 Vercel 
 Supabase
+#vThe next idea
