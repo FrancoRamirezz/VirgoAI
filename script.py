@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+import csv
 
 url = "put the website vercel here once done"
 # goal is to scrape data from the website to see how is your website doing 
